@@ -8,12 +8,12 @@ This sample showcases the following Architecture Components:
 
 ## Features
 
-This sample is a simple "bank account" application.
-When app starts user can observe his account state with 2 deposits. Clicking 'exchange' button user can pass to the second screen and make transitions between his deposits.
+This sample is a simple `bank account` application.
+When app starts user can observe his account state with 2 deposits. Clicking `exchange` button user can pass to the second screen and make transitions between his deposits.
 
 Application contains no rotation handling logic at all. Only subscriptions to data & that is all to magic happen.
 
-Architecture type: 'MVVM'
+Architecture type: `MVVM`
 
 ## Libraries
 * [Android Support Library][support-lib]
@@ -36,7 +36,7 @@ Architecture type: 'MVVM'
 
 The MIT License
 
-Copyright (c) 2017 Savelyev Daniil
+Copyright (c) 2017, Daniil Savelyev.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
