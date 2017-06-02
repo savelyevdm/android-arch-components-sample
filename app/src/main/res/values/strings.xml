@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Money+LiveData</string>
+
+    <string name="user_label">User:&#160;</string>
+    <string name="first_deposit_label">Deposit # 1:&#160;</string>
+    <string name="second_deposit_label">Deposit # 2:&#160;</string>
+    <string name="exchange_label">Exchange</string>
+    <string name="main_screen_label">Bank account</string>
+
+    <string name="ruble_symbol_html">&#160;&#8381;</string>
+
+    <string name="dec_button_label">◀</string>
+    <string name="inc_button_label">▶</string>
+    <string name="accept_exchange_button_label">Accept</string>
+
+</resources>
